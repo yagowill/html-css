@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#cinza {
+    background-color: rgb(224, 224, 224);
+}
+
+#verde {
+    background-color: rgb(141, 219, 141);
+}
+.letraverde {
+    color: green;
+}
+#amarelo {
+    background-color: rgb(255, 255, 218);
+}
+.letraamarela {
+    color: rgb(253, 173, 0);
+}

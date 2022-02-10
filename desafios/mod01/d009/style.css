@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+background-color: rgb(46, 44, 44);
+text-align: center;
+}
+h1 {
+color: aliceblue;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+}
+.cursocompleto {
+    color: aliceblue;
+    text-decoration: none;
+    padding-bottom: 1.13;
+}
+.cursocompleto:hover {
+    font-size: 1.1em;
+    text-shadow: 0px 0px 10px black;
+    padding-bottom: 0px;
+}
